@@ -13,20 +13,30 @@
 <section class="catalog" id="catalog">
       <div class="content">
         <div class="title-wrapper-catalog">
-          <p>Find what you want</p>
-          <h3>Catalog</h3>
-        </div>
-        <div class="filter-card">
-          <input
-            type="text"
-            class="search-input"
-            placeholder="Choose your favorite model"
-          />
-          <button class="search-button">Search</button>
+          <p>Encontre o Veículo Desejado</p>
+          <h3>Catálogo</h3>
         </div>
         <div class="card-wrapper">
           <div class="card-item">
-            <img src="images/car-card.png" alt="Car" />
+            <img src="img/fusca.png" alt="Car" />
+            <div class="card-content">
+              <h3>Vw Fusca</h3>
+              <p>Volkswagen Fusca 1300 ano 1969 na cor Branco.</p>
+              <button type="button">Alugar!</button>
+            </div>
+          </div>
+          <div class="card-item">
+            <img src="img/chevette.png" alt="Car" />
+            <div class="card-content">
+              <h3>GM Chevette</h3>
+              <p>
+              Chevrolet Chevette motor 1.4 ano 1985 na cor Branco.
+              </p>
+              <button type="button">I want this!</button>
+            </div>
+          </div>
+          <div class="card-item">
+            <img src="img/car-card.png" alt="Car" />
             <div class="card-content">
               <h3>Audi Supra TT</h3>
               <p>
@@ -37,7 +47,7 @@
             </div>
           </div>
           <div class="card-item">
-            <img src="images/car-card.png" alt="Car" />
+            <img src="img/car-card.png" alt="Car" />
             <div class="card-content">
               <h3>Audi Supra TT</h3>
               <p>
@@ -48,7 +58,7 @@
             </div>
           </div>
           <div class="card-item">
-            <img src="images/car-card.png" alt="Car" />
+            <img src="img/car-card.png" alt="Car" />
             <div class="card-content">
               <h3>Audi Supra TT</h3>
               <p>
@@ -59,7 +69,7 @@
             </div>
           </div>
           <div class="card-item">
-            <img src="images/car-card.png" alt="Car" />
+            <img src="img/car-card.png" alt="Car" />
             <div class="card-content">
               <h3>Audi Supra TT</h3>
               <p>
@@ -70,7 +80,7 @@
             </div>
           </div>
           <div class="card-item">
-            <img src="images/car-card.png" alt="Car" />
+            <img src="img/car-card.png" alt="Car" />
             <div class="card-content">
               <h3>Audi Supra TT</h3>
               <p>
@@ -81,7 +91,7 @@
             </div>
           </div>
           <div class="card-item">
-            <img src="images/car-card.png" alt="Car" />
+            <img src="img/car-card.png" alt="Car" />
             <div class="card-content">
               <h3>Audi Supra TT</h3>
               <p>
@@ -92,29 +102,7 @@
             </div>
           </div>
           <div class="card-item">
-            <img src="images/car-card.png" alt="Car" />
-            <div class="card-content">
-              <h3>Audi Supra TT</h3>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Repellendus.
-              </p>
-              <button type="button">I want this!</button>
-            </div>
-          </div>
-          <div class="card-item">
-            <img src="images/car-card.png" alt="Car" />
-            <div class="card-content">
-              <h3>Audi Supra TT</h3>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Repellendus.
-              </p>
-              <button type="button">I want this!</button>
-            </div>
-          </div>
-          <div class="card-item">
-            <img src="images/car-card.png" alt="Car" />
+            <img src="img/car-card.png" alt="Car" />
             <div class="card-content">
               <h3>Audi Supra TT</h3>
               <p>
@@ -131,86 +119,26 @@
     <section class="about" id="about">
       <div class="content">
         <div class="title-wrapper-about">
-          <p>Know about us</p>
-          <h3>About</h3>
+          <p>Quem Somos?</p>
+          <h3>Sobre</h3>
         </div>
         <div class="about-content">
           <div class="left">
-            <img src="images/about.png" alt="About" />
+            <img src="img/about.png" alt="About" />
           </div>
           <div class="right">
-            <h3>Join technology and mobility</h3>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Repudiandae ut inventore magni repellendus ab ad itaque facere. A
-              tenetur quam, nobis tempore illum laborum ipsa fuga, itaque
-              possimus repellat ad perspiciatis, velit reiciendis eos facilis
-              sapiente blanditiis quas officia hic beatae quibusdam! Quod
-              eligendi porro possimus voluptatum ad ipsum sapiente soluta,
-              maiores nobis tenetur adipisci officiis nisi illum quae natus
-              nostrum tempora accusantium blanditiis? Rem nesciunt illum
-              dolorum, perferendis quos consequatur suscipit cumque fugiat alias
-              sint repellat qui adipisci error est distinctio doloribus labore
-              sunt modi eos odio quibusdam dicta. Dignissimos voluptate illum
-              possimus quo. Ducimus repellat doloribus quisquam quidem?
-            </p>
+            <h3>Joel Rent Car</h3>
+            <p>Somos a maior plataforma de aluguel de carros online do Brasil e uma das líderes globais do segmento. Na 
+              Joel Rent Car, você pode alugar diversos modelos de carros.</p>
+              <p>Fundada em 1994, a nossa missão é oferecer as melhores opções de aluguel de carros no Brasil. Respiramos excelência no 
+                atendimento ao cliente e trabalhamos focados em garantir a satisfação do início ao fim da sua viagem.</p>
+              <p>A Joel Rent Car garante o melhor preço aos seus clientes. </p>
           </div>
         </div>
       </div>
     </section>
 
-    <section class="features" id="features">
-      <div class="content">
-        <div class="title-wrapper-features">
-          <p>What you can do</p>
-          <h3>Features</h3>
-        </div>
-        <div class="feature-card-block">
-          <div class="feature-card-item">
-            <img src="images/feature-planet.png" alt="Feature" />
-            <div class="feature-text-content">
-              <h3>Title</h3>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
-            </div>
-          </div>
-          <div class="feature-card-item">
-            <img src="images/feature-planet.png" alt="Feature" />
-            <div class="feature-text-content">
-              <h3>Title</h3>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
-            </div>
-          </div>
-          <div class="feature-card-item">
-            <img src="images/feature-planet.png" alt="Feature" />
-            <div class="feature-text-content">
-              <h3>Title</h3>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
-            </div>
-          </div>
-          <div class="feature-card-item">
-            <img src="images/feature-planet.png" alt="Feature" />
-            <div class="feature-text-content">
-              <h3>Title</h3>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
-            </div>
-          </div>
-          <div class="feature-card-item">
-            <img src="images/feature-planet.png" alt="Feature" />
-            <div class="feature-text-content">
-              <h3>Title</h3>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
-            </div>
-          </div>
-          <div class="feature-card-item">
-            <img src="images/feature-planet.png" alt="Feature" />
-            <div class="feature-text-content">
-              <h3>Title</h3>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+    
 
 </body>
 </html>

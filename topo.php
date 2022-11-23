@@ -8,31 +8,31 @@
 
 </head>
 
+
 <body>
-    
 <header>
       <div class="content">
         <nav>
-          <p class="brand">dev<strong>superior</strong></p>
+          <p class="brand">Joel<strong>RentCar</strong></p>
           <ul>
-            <li><a href="#catalog">Catalog</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#feature">Features</a></li>
+            <li><a href="#catalog">Catálogo</a></li>
+            <li><a href="#about">Sobre</a></li>
+            <li><a href="#main">Fale Conosco</a></li>
             <button>Login</button>
           </ul>
         </nav>
         <div class="header-block">
           <div class="text">
-            <h2>The perfect car for you</h2>
+            <h2>O carro perfeito para VOCÊ!</h2>
             <p>
-              testeeeeeeet amet consectetur adipisicing elit. Officia,
-              asperiores?
+            Somos a maior plataforma de aluguel de 
+            carros online do Brasil e uma das líderes 
+            globais do segmento.
             </p>
           </div>
           <img src="img/car-header.png" alt="Car" />
         </div>
       </div>
     </header>
-
 </body>
 </html>
