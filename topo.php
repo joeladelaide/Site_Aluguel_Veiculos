@@ -30,9 +30,10 @@
             globais do segmento.
             </p>
           </div>
-          <img src="img/car-header.png" alt="Car" />
+          <img src="img/audi_tt.png" alt="Car" />
         </div>
       </div>
     </header>
 </body>
 </html>
+

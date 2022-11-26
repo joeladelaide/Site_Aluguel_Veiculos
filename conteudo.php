@@ -5,7 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="css/styles.css" />
-
 </head>
 
 <body>
@@ -16,102 +15,106 @@
           <p>Encontre o Veículo Desejado</p>
           <h3>Catálogo</h3>
         </div>
+
         <div class="card-wrapper">
           <div class="card-item">
             <img src="img/fusca.png" alt="Car" />
             <div class="card-content">
               <h3>Vw Fusca</h3>
-              <p>Volkswagen Fusca 1300 ano 1969 na cor Branco.</p>
+              <p>Volkswagen Fusca 1300 ano 1969 na cor Azul.</p>
               <button type="button">Alugar!</button>
             </div>
           </div>
+
           <div class="card-item">
-            <img src="img/chevette.png" alt="Car" />
+            <img src="img/chevete.png" alt="Car" />
             <div class="card-content">
               <h3>GM Chevette</h3>
               <p>
               Chevrolet Chevette motor 1.4 ano 1985 na cor Branco.
               </p>
-              <button type="button">I want this!</button>
+              <button type="button">Alugar!</button>
             </div>
           </div>
+
           <div class="card-item">
-            <img src="img/car-card.png" alt="Car" />
+            <img src="img/polo.png" alt="Car" />
             <div class="card-content">
-              <h3>Audi Supra TT</h3>
+              <h3>VW Polo</h3>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Repellendus.
+              Volkswagen Polo ano 2022 na cor Branco, Preto, Prata e Azul.
               </p>
-              <button type="button">I want this!</button>
+              <button type="button">Alugar!</button>
             </div>
           </div>
+
           <div class="card-item">
-            <img src="img/car-card.png" alt="Car" />
+            <img src="img/corola.png" alt="Car" />
             <div class="card-content">
-              <h3>Audi Supra TT</h3>
+              <h3>Toyota Corolla</h3>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Repellendus.
+                Toyota Corolla ano 2022 na cor Branco, Preto, Prata e Azul.
               </p>
-              <button type="button">I want this!</button>
+              <button type="button">Alugar!</button>
             </div>
           </div>
+
           <div class="card-item">
-            <img src="img/car-card.png" alt="Car" />
+            <img src="img/cross.png" alt="Car" />
             <div class="card-content">
-              <h3>Audi Supra TT</h3>
+              <h3>Toyota Corolla Cross</h3>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Repellendus.
+              Toyota Corolla Cross, SUV ano 2022 na cor Branco, Preto, Prata e Azul.
               </p>
-              <button type="button">I want this!</button>
+              <button type="button">Alugar!</button>
             </div>
           </div>
+
           <div class="card-item">
-            <img src="img/car-card.png" alt="Car" />
+            <img src="img/frontier.png" alt="Car" />
             <div class="card-content">
-              <h3>Audi Supra TT</h3>
+              <h3>Nissan Frontier</h3>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Repellendus.
+              Nissa Frontier ano 2022 na cor Branco, Preto, Prata e Azul.
+
               </p>
-              <button type="button">I want this!</button>
+              <button type="button">Alugar!</button>
             </div>
           </div>
+
           <div class="card-item">
-            <img src="img/car-card.png" alt="Car" />
+            <img src="img/a4.png" alt="Car" />
             <div class="card-content">
-              <h3>Audi Supra TT</h3>
+              <h3>Audi A4 Prestige</h3>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Repellendus.
+                Audi A4 Prestige ano 2022 na cor Branco, Preto, Cinza e Azul.
               </p>
-              <button type="button">I want this!</button>
+              <button type="button">Alugar!</button>
             </div>
           </div>
+
           <div class="card-item">
-            <img src="img/car-card.png" alt="Car" />
+            <img src="img/mc.png" alt="Car" />
             <div class="card-content">
-              <h3>Audi Supra TT</h3>
+              <h3>MacLaren 910 Spyder</h3>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Repellendus.
+                MacLaren 910 Spyder na cor Laranja Vinil.
               </p>
-              <button type="button">I want this!</button>
+              <button type="button">Alugar!</button>
             </div>
           </div>
+
           <div class="card-item">
-            <img src="img/car-card.png" alt="Car" />
+            <img src="img/ferrari.png" alt="Car" />
             <div class="card-content">
-              <h3>Audi Supra TT</h3>
+              <h3>Ferrari Gtb 488</h3>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Repellendus.
+                Ferrari Gtb 488 na com Vermelho Ferrari.
               </p>
-              <button type="button">I want this!</button>
+              <button type="button">Alugar!</button>
             </div>
           </div>
+
         </div>
       </div>
     </section>
