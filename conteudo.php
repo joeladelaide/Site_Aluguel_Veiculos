@@ -22,7 +22,7 @@
             <div class="card-content">
               <h3>Vw Fusca</h3>
               <p>Volkswagen Fusca 1300 ano 1969 na cor Azul.</p>
-              <button type="button">Alugar!</button>
+              <button type="button"><a href="#topo">Alugar</a></button>
             </div>
           </div>
 
@@ -33,7 +33,7 @@
               <p>
               Chevrolet Chevette motor 1.4 ano 1985 na cor Branco.
               </p>
-              <button type="button">Alugar!</button>
+              <button type="button"><a href="#topo">Alugar</a></button>
             </div>
           </div>
 
@@ -44,7 +44,7 @@
               <p>
               Volkswagen Polo ano 2022 na cor Branco, Preto, Prata e Azul.
               </p>
-              <button type="button">Alugar!</button>
+              <button type="button"><a href="#topo">Alugar</a></button>
             </div>
           </div>
 
@@ -55,7 +55,7 @@
               <p>
                 Toyota Corolla ano 2022 na cor Branco, Preto, Prata e Azul.
               </p>
-              <button type="button">Alugar!</button>
+              <button type="button"><a href="#topo">Alugar</a></button>
             </div>
           </div>
 
@@ -66,7 +66,7 @@
               <p>
               Toyota Corolla Cross, SUV ano 2022 na cor Branco, Preto, Prata e Azul.
               </p>
-              <button type="button">Alugar!</button>
+              <button type="button"><a href="#topo">Alugar</a></button>
             </div>
           </div>
 
@@ -78,7 +78,7 @@
               Nissa Frontier ano 2022 na cor Branco, Preto, Prata e Azul.
 
               </p>
-              <button type="button">Alugar!</button>
+              <button type="button"><a href="#topo">Alugar</a></button>
             </div>
           </div>
 
@@ -89,7 +89,7 @@
               <p>
                 Audi A4 Prestige ano 2022 na cor Branco, Preto, Cinza e Azul.
               </p>
-              <button type="button">Alugar!</button>
+              <button type="button"><a href="#topo">Alugar</a></button>
             </div>
           </div>
 
@@ -100,7 +100,7 @@
               <p>
                 MacLaren 910 Spyder na cor Laranja Vinil.
               </p>
-              <button type="button">Alugar!</button>
+              <button type="button"><a href="#topo">Alugar</a></button>
             </div>
           </div>
 
@@ -111,7 +111,7 @@
               <p>
                 Ferrari Gtb 488 na com Vermelho Ferrari.
               </p>
-              <button type="button">Alugar!</button>
+              <button type="button"><a href="#topo">Alugar</a></button>
             </div>
           </div>
 
@@ -137,6 +137,48 @@
                 atendimento ao cliente e trabalhamos focados em garantir a satisfação do início ao fim da sua viagem.</p>
               <p>A Joel Rent Car garante o melhor preço aos seus clientes. </p>
           </div>
+        </div>
+      </div>
+    </section>
+
+
+    <section class="cadastro" id="cadastro">
+      <div class="content">
+        <div class="title-wrapper-about">
+          <p>Efetue seu Cadastro e Receba Promoções Diariamente</p>
+          <h3>Cadastro</h3>
+        </div>
+        <div class="about-content">
+          <div class="left">
+            <img src="img/about.png" alt="About" />
+          </div>
+
+
+          <div class="right">
+            <h3>Joel Rent Car</h3>
+            <p>Somos a maior plataforma de aluguel de carros online do Brasil e uma das líderes globais do segmento. Na 
+              Joel Rent Car, você pode alugar diversos modelos de carros.</p>
+              <br>
+              <h3>Preencha os campos abaixo e cadastre-se</h3>
+		          <br>
+		          <form action="validar.php" method="post" id="usuarios" target="">
+
+			          <label for="nome">Nome Completo</label><br>
+			          <input type="text" id="nome" name="nome" placeholder="Digite seu Nome Completo">
+			          <br><br>
+			          <label for="email">E-Mail</label><br>
+			          <input type="email" id="email" name="email" placeholder="Digite seu e-mail">
+			          <br><br>
+			          <label for="whatsapp">Whatsapp</label><br>
+			          <input type="text" id="whatsapp" name="whatsapp" placeholder="Digite seu Whatsapp"><br><br>
+
+			          <input type="submit" class="botao" name="cadastrar">
+			
+		          </form>
+
+          
+          
+            </div>
         </div>
       </div>
     </section>

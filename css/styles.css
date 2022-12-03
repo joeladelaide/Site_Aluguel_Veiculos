@@ -1,7 +1,7 @@
-/* font importing */
+/* Importação da Fonte Utilizada no Projeto: */
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
 
-/* reseting css rules */
+/* Style - Global */
 * {
   margin: 0px;
   padding: 0px;
@@ -132,7 +132,7 @@ nav ul button:hover {
   transition: transform 0.4s;
 }
 
-/* Product Catalog */
+/* Style - Catálogo dos Veículos */
 
 section .catalog {
   width: 100vw;
@@ -241,7 +241,7 @@ section .card-item {
   color: var(--blue);
 }
 
-/* About */
+/* Style - Sobre */
 
 .about {
   width: 100%;
@@ -300,7 +300,8 @@ section .card-item {
 }
 
 
-/* Footer */
+/* Style - Rodapé */
+
 footer {
   width: 100%;
   height: 250px;
@@ -354,7 +355,7 @@ footer .last {
   justify-content: center;
 }
 
-/* Responsive adjustments */
+/* Style - Ajustes Responsivos */
 
 @media (max-width: 576px) {
   nav ul li {

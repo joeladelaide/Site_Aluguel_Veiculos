@@ -18,7 +18,6 @@
           <div class="footer-company">
             <h4>Empresa</h4>
             <h6>Sobre</h6>
-            <h6>Contato</h6>
           </div>
           <div class="footer-rental">
             <h4>Aluguel</h4>
@@ -33,7 +32,7 @@
           </div>
           <div class="footer-contact">
             <h4>Fale Conosco</h4>
-            <h6>+55 83 3238-4145</h6>
+            <h6>+55 0800 774-7474</h6>
             <h6>contato@joelrentcar.com.br</h6>
             <h6>Av Epitácio Pessoa, João Pessoa-PB</h6>
           </div>

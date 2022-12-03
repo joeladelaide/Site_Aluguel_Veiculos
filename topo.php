@@ -10,7 +10,8 @@
 
 
 <body>
-<header>
+  <header>
+    <section class="topo" id="topo">
       <div class="content">
         <nav>
           <p class="brand">Joel<strong>RentCar</strong></p>
@@ -18,22 +19,23 @@
             <li><a href="#catalog">Catálogo</a></li>
             <li><a href="#about">Sobre</a></li>
             <li><a href="#main">Fale Conosco</a></li>
-            <button>Login</button>
+            <button><a href="#cadastro">Cadastro</a></button>
           </ul>
         </nav>
         <div class="header-block">
           <div class="text">
-            <h2>O carro perfeito para VOCÊ!</h2>
-            <p>
-            Somos a maior plataforma de aluguel de 
-            carros online do Brasil e uma das líderes 
-            globais do segmento.
-            </p>
+          <h2>Rápido e Fácil!</h2>
+            <p>Quer reservar um veículo?</p>
+            <p>Ligue agora mesmo para o</p>
+            <p>+55 0800 774-7474</p>
+            <p>e efetue imediatamente sua reserva!</p>
           </div>
-          <img src="img/audi_tt.png" alt="Car" />
+          <img src="img/fusca_l.png" alt="Car" />
         </div>
       </div>
-    </header>
+    </section>
+  </header>
+
 </body>
 </html>
 
