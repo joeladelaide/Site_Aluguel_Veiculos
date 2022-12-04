@@ -156,8 +156,7 @@
 
           <div class="right">
             <h3>Joel Rent Car</h3>
-            <p>Somos a maior plataforma de aluguel de carros online do Brasil e uma das líderes globais do segmento. Na 
-              Joel Rent Car, você pode alugar diversos modelos de carros.</p>
+            <p>Somos a maior plataforma de aluguel de carros online do Brasil e, efetuando esse cadastro, você receberá diariamente diversos cupons de desconto no seu E-mail e no seu Whatsapp.</p>
               <br>
               <h3>Preencha os campos abaixo e cadastre-se</h3>
 		          <br>

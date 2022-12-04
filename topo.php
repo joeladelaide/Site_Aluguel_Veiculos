@@ -18,8 +18,9 @@
           <ul>
             <li><a href="#catalog">Catálogo</a></li>
             <li><a href="#about">Sobre</a></li>
+            <li><a href="#cadastro">Cadastro</a></li>
             <li><a href="#main">Fale Conosco</a></li>
-            <button><a href="#cadastro">Cadastro</a></button>
+            <button><a href="login.php">Login</a></button>
           </ul>
         </nav>
         <div class="header-block">
