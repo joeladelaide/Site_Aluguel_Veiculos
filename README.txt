@@ -15,13 +15,16 @@ O projeto será realizado pelo aluno do Curso de Ciências da Computação da Un
 3 – PLANEJAMENTO DO PROJETO 
 
 	As funcionalidades contidas no projeto serão:
-	Interface Web apresentável, utilizando-se da linguagem HTML, CSS para sua elaboraçao;
+	Interface Web apresentável, utilizando-se da linguagem HTML, CSS e SQL para sua elaboraçao;
 	Páginas para navegação: 
-o	Quem Somos: conterá detalhes e histórico da empresa;
-o	 Fale Conosco: conterá as formas de contato com a empresa;
-o	 Realizar uma nova reserva: pagína para realização de uma reserva de um veículo;
-o	Verificação dos produtos disponíveis: página contendo os produtos dispiníveis para reserva.
+o	Topo da Página: Contendo o menu do sistema Web;
+o	Catálogo: Contendo as opções de reservas de veículos;
+o	Quem Somos?: Contendo as informaçõe básicas sobre a empresa, incluindo seu histórico;
+o	Cadastro: Para que o usuário efetue seu cadastro e receba diariamente promoções da empresa;
+o	Rodapé: Contendo informações sobre redes sociais, contatos;
+o	Fale Conosco: conterá as formas de contato com a empresa;
+o	Login: Para o administrador do site ter acesso aos usuários cadastrados;
 	Existirá a conexão e interação com o Banco de Dados (MySQL);
-	Painel Admin para verificação das reservas anteriormente efetuadas. 
+	Painel Admin para verificação dos cadastros anteriormente efetuados. 
 
 
